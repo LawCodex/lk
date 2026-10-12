@@ -1,0 +1,173 @@
+---
+title: "Widows' and Orphans' Pension Fund (Amendment) Act, No. 8 of 2010"
+identifier: "Act, No. 8 of 2010"
+type: act
+jurisdiction: lk
+language: en
+date: 2010-08-17
+version: as_enacted
+status: unknown
+source: "https://www.parliament.lk/en/business-of-parliament/act-details/G5753"
+source_pdf: "https://www.parliament.lk/uploads/acts/gbills/english/5753.pdf"
+retrieved: 2026-10-12
+---
+
+# Widows' and Orphans' Pension Fund (Amendment) Act, No. 8 of 2010
+
+Widows’ and Orphans’ Pension Fund 1 (Amendment) Act, No. 8 of 2010
+
+[Certified on 17th August, 2010]
+
+L. D. —O. 6/2006.
+
+A N A CT TO AMEND THE W IDOWS ’ AND O RPHANS ’ P ENSION F UND O RDINANCE
+
+Be it enacted by the Parliament of the Democratic Socialist Republic of Sri Lanka as follows:—
+
+#### 1. Short title.
+
+1. This Act may be cited as the Widows’ and Orphans’ Pension Fund (Amendment) Act, No. 8 of 2010.
+
+#### 2. Replacement of section 7 of Chapter 431.
+
+2. Section 7 of the Widows’ and Orphans’ Pension Fund Ordinance (Chapter 431) (hereinafter referred to as ‘the principal enactment’) is hereby repealed and the following section substituted therefor:—
+
+7. (1) The Minister may make regulations “Minister to make in respect of all matters required by this Act to regulations. be prescribed or in respect of which regulations are authorized to be made under this Act.
+
+(2) Every regulation made by the Minister shall be published in the Gazette and shall come into operation on the date of such publication or on such later date as may be specified therein.
+
+(3) Every regulation shall, as soon as convenient after the publication in the Gazette, be brought before Parliament for approval. Any regulation which is not so approved shall deemed to be rescinded from the date of such disapproval but without prejudice to anything previously done thereunder.
+
+(4) Notification of the date in which any regulation made by the Minister is deemed to be rescinded shall be published in the Gazette.”.
+
+2—PL 005043—4,140 (07/2010)
+
+2 Widows’ and Orphans’ Pension Fund (Amendment) Act, No. 8 of 2010
+
+#### 3. Amendment of section 13 of the principal enactment.
+
+3. Section 13 of the principal enactment is hereby amended in subsection (2) of that section by the substitution for the words “contributor under this Ordinance”, of the following:—
+
+“contributor under this Ordinance:
+
+“Provided however any person who became a contributor under this Ordinance on or after the relevant date and who has completed ten years of service prior to the retirement or removal or otherwise leaves the public service without a pension in the manner referred to in subsection (1), shall be eligible to the benefits under subsection (1).”.
+
+#### 4. Insertion of new sections 27 A and 27 B in the principal enactment.
+
+4. The following new sections are hereby inserted immediately after section 27 of the principal enactment, and shall have effect as section 27 and 27 of that A B enactment :—
+
+“Payment of 27 A . (1) Where any public officer who is a pension to contributor to the Fund dies before reaching public his age of retirement due to an act which officers &c,. who die due constitutes an offence under any Emergency to acts which Regulation for the time being in force, or due constitute an to any natural disaster, the widow and the offence children of such officer shall notwithstanding under the emergency any other provisions of this Ordinance be regulations entitled— &c,.
+
+(a) from the date of such death, to receive a pension calculated in accordance with the provisions of this Ordinance, based on the salary such officer was drawing at the time of his death, till the date on which, had he lived, he would have reached his age of retirement; and
+
+Widows’ and Orphans’ Pension Fund 3 (Amendment) Act, No. 8 of 2010
+
+(b) from and after the date on which he would have reached his age of retirement, to receive a pension calculated in accordance with the provisions of this Ordinance based on the revised salary with all the increments to which, had he lived, he would have been entitled to receive till he reached his age of retirement.
+
+(2) In calculating the pension for the purpose of subsection (1), the age of retirement shall be determined by the Director-General of Pensions, taking into consideration the circumstances of the death of the officer concerned, his period of service and any other material particulars applicable to each individual case.
+
+(3) Where any person who is a male and who holds a temporary or casual post in the public service dies while in service, due to an act which constitutes an offence under the Emergency Regulations or due to any natural disaster, before being made permanent in his post, such person shall, notwithstanding any other provisions of this Ordinance be deemed to be an officer to whom the provision of section 27 of this Ordinance applies from the date of his death and, the widow and, children of such person shall, notwithstanding any other provisions of this Ordinance be entitled—
+
+(a) from the date of such death, to receive a pension calculated in accordance with the provisions of this Ordinance, based on the salary such person was drawing at the time of his death, till the date on which had he lived, he would reach fiftyfive years of age;
+
+4 Widows’ and Orphans’ Pension Fund (Amendment) Act, No. 8 of 2010
+
+(b) from and after the date on which he would have reached fifty-five years of age, to receive a pension with all the increments, to which had he lived he would have been entitled to receive till he reached fifty-five years of age.
+
+(4) Any person to whom the provision of subsection (3) applies shall be deemed to be a contributor under the Ordinance as from the date he joined the public service.
+
+(5) Notwithstanding any other provisions of this Ordinance for the purpose of granting pension under this section, the officers referred to in subsection (1) and the persons referred to in subsection (3), of this section shall be deemed to have paid the contributions due to the Fund in full as at the date of their death.
+
+(6) For the purpose of this section—
+
+“emergency regulations” means any regulation made by the President under section 5 of the Public Security Ordinance (Chapter 40);
+
+“natural disaster” shall have the same meaning as in the Sri Lanka Disaster Management Act, No. 13 of 2005.
+
+*Payment of pension to widow of officer specified in Schedule GQ of Minutes on Pensions.*
+
+27 B . Notwithstanding the provisions of section 27, a widow of any officer—
+
+(a) who is specified in the Schedule GQ of the Minutes on Pensions; and
+
+(b) who is entitled to a pension on the completion of five years of service,
+
+Widows’ and Orphans’ Pension Fund 5 (Amendment) Act, No. 8 of 2010
+
+shall be entitled, on the demise of such officer, to receive a pension computed on the salary drawn by such officer on retirement in accordance with the provisions of this Ordinance. The amount of the contributions shall be computed on the basis of the salary drawn by such officer on his retirement and shall be made to the Fund with interest, for the total period of five years and unless and until such contributions are paid with interest accrued on such contributions, the payment of pension under this section shall not commence.”.
+
+#### 5. Amendment of section 29 of the principal enactment.
+
+5. Section 29 of the principal enactment is hereby amended by the substitution for the words “or an unmarried female orphan” of the words “or a female orphan”.
+
+#### 6. Replacement of section 34 of the principal enactment.
+
+6. Section 34 of the principal enactment is hereby repealed and the following new section is substituted therefor :—
+
+#### 34. in
+
+34. (1) The widow of a contributor shall, on “Provisions case of her remarriage, receive as pension after the date widow of such subsequent marriage— remarrying.
+
+(a) half the amount of the pension which she was receiving at the time of such subsequent marriage; or
+
+(b) where she was entitled to receive a pension but was not in actual receipt of the same, half the amounts she was to receive in her capacity as a widow prior to such subsequent marriage.
+
+(2) The children of the first marriage of the widow shall receive the remaining portion of
+
+6 Widows’ and Orphans’ Pension Fund (Amendment) Act, No. 8 of 2010
+
+the pension received by the widow after the payment to the widow is made in terms of paragraphs (a) or (b) above.
+
+(3) Where the spouse of such subsequent marriage is also a contributor to the Fund and where such widow becomes entitled to receive a pension upon the death of such spouse in respect of the contributions made to the Fund by such spouse, the payment of such amount as she was receiving as pension in terms of paragraphs (a) and (b) of subsection (1) shall be terminated with effect from the date of death of such spouse of such subsequent marriage:
+
+Provided that, where the payment of the pension is terminated as provided above, the children of the first marriage of the widow shall, as from the date of death of the spouse of their mother’s subsequent marriage, be entitled to receive the shares they were receiving in terms of subsection (2) and the amount which their mother was receiving in terms of subsection (1), prior to such termination:
+
+Provided further that in the event of the dissolution of such subsequent marriage, the widow shall be entitled to receive as pension the half share she received in terms of subsection (1) and the entitlement of the children under subsection (2) remains unchanged.”.
+
+#### 7. Amendment of section 43 of the principal enactment
+
+7. Section 43 of the principal enactment is hereby amended as follows:—
+
+(1) by renumbering that section as subsection (1) thereof;
+
+Widows’ and Orphans’ Pension Fund 7 (Amendment) Act, No. 8 of 2010
+
+(2) by the addition of the following new subsection immediately after the renumbered subsection (1), thereof:—
+
+“(2) Notwithstanding the provisions of subsection (1), a public officer who has retired from public service before the date of his optional or compulsory retirement on abolition of posts and who has ceased to make contributions to the Fund may continue to make contributions to the Fund commencing from the date on which he retired until he reaches fiftyfive years of age in respect of a marriage contracted by such officer after the date of such retirement.”.
+
+#### 8. Replacement of section 51 A of the principal enactment.
+
+8. Section 51 A of the principal enactment is hereby repealed and the following section substituted therefor:—
+
+51 A . Where a public officer— “Special provisions applicable to (a) who becomes contributor on or after married the relevant date; and public officers who (b) who is not a bachelor, become contributors leaves the public service, he shall not be granted on or after the relevant a refund of the entirety or part of his contributions if he is not eligible for a pension date and leave the under the Minutes on Pensions. However if he public had completed ten or more years of such service service before leaving the service, his widow or orphans without shall upon his death be entitled to a pension pension. on the basis of the contributions made by him calculated in accordance with the provisions of this Ordinance.
+
+#### 9. Application of the provisions of section 27 A of the principal enactment to persons who had died before the date of operation of this Act.
+
+9. (1) The provisions of subsection (1) of section 27 A shall mutatis mutandis apply to the widow and children of any public officer who had been a contributor to the Fund and had died before the date of coming into operation of this Act, under the circumstances specified in the aforesaid subsection.
+
+8 Widows’ and Orphans’ Pension Fund (Amendment) Act, No. 8 of 2010
+
+(2) The provisions of subsection (3) of section 27 A shall mutatis mutandis apply to the widow and children of any person who is a male and had held a temporary or casual post in the public service and had died while in service, before the date of coming into operation of this Act under the circumstances specified in the aforesaid subsection.
+
+(3) Any person to whom the provisions of subsection (2) of this section applies, shall be deemed to be a contributor under the principal enactment.
+
+(4) For the purpose of granting a pension under subsections (1) and (2) of this section, the officers referred to in subsection (1) and the persons referred to in subsection (2) of this section shall be deemed to have paid all contributions due to the Fund from them, in full, as at the date of death of each such person.
+
+#### 10. Claims to be forwarded to the Director- General.
+
+10. Any widow or any child or children of any officer or person referred to in section 9 of this Act shall, on or before the date to be appointed by the Minister by Order published in the Gazette shall forward their claims to the Director- General in such form as may be prescribed and issued by the Director-General.
+
+#### 11. Retrospective effect.
+
+11. The provisions of sections 6, 7 and 8 of this Act shall be deemed to have come into effect as from the date on which the principal enactment came into operation.
+
+#### 12. Sinhala text to prevail in case of inconsistency.
+
+12. In the event of any inconsistency between the Sinahla and Tamil texts of this Act, the Sinhala text shall prevail.
+
+Widows’ and Orphans’ Pension Fund 9 (Amendment) Act, No. 8 of 2010
+
+*Annual (Local), Rs. 1,180 (Foreign), , D EPARTMENT OF G OVERNMENT 05 before 15th*
+
+subscription of English Bills and Acts of the Parliament Rs. 885 Payable to the S UPERINTENDENT , G OVERNMENT P UBLICATIONS B UREAU I NFORMATION , N O . 163, K IRULAPONA M AWATHA , P OLHENGODA , C OLOMBO December each year in respect of the year following .

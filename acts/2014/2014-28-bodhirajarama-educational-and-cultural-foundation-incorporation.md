@@ -1,0 +1,227 @@
+---
+title: "Bodhirajarama Educational and Cultural Foundation (Incorporation) Act, No. 28 of 2014"
+identifier: "Act, No. 28 of 2014"
+type: act
+jurisdiction: lk
+language: en
+date: 2014-08-21
+version: as_enacted
+status: unknown
+source: "https://www.parliament.lk/en/business-of-parliament/act-details/P1020"
+source_pdf: "https://www.parliament.lk/uploads/acts/pbills/english/1020.pdf"
+retrieved: 2026-10-12
+---
+
+# Bodhirajarama Educational and Cultural Foundation (Incorporation) Act, No. 28 of 2014
+
+1 Bodhirajarama Educational and Cultural Foundation (Incorporation) Act, No. 28 of 2014
+
+[Certified on 21st August, 2014]
+
+L.D.—O. (Inc. 35/2011)
+
+A N A CT TO INCORPORATE THE B ODHIRAJARAMA E DUCATIONAL AND C ULTURAL F OUNDATION
+
+*Preamble.*
+
+WHEREAS a Foundation called and known as the “Bodhirajarama Educational and Cultural Foundation” has heretofore been established in Sri Lanka for the purpose of effectually carrying out it’s objects and transacting all matters connected with the said Foundation according to the rules agreed to by its members:
+
+AND WHEREAS the said foundation has heretofore successfully carried out and transacted the several objects and matters for which it was formed and has applied to be incorporated, and it will be for the public advantage to grant the said application:
+
+BE it therefore enacted by the Parliament of the Democratic Socialist Republic of Sri Lanka as follows:—
+
+#### 1. Short title.
+
+1. This Act may be cited as the Bodhirajarama Educational and Cultural Foundation (Incorporation) Act, No. 28 of 2014.
+
+#### 2. Incorporation of the Bodhirajarama Educational and Cultural Foundation.
+
+2. (1) From and after the date of commencement of this Act, such and so many persons as now are members of the “Bodhirajarama Educational and Cultural Foundation” (hereinafter referred to as the “Foundation”) and shall hereafter be admitted as members of the Corporation hereby constituted, shall be a body corporate, with perpetual succession under the name and style of the “Bodhirajarama Educational and Cultural Foundation” (hereinafter referred to as “the Corporation”), and by that name may sue and be sued, with full power and authority to have and use a common seal and to alter the same at its pleasure. 2—PL 006405—2000 (11/2011)
+
+2 Bodhirajarama Educational and Cultural Foundation (Incorporation) Act, No. 28 of 2014
+
+(2) The Corporation shall be deemed to be a voluntary social service organization within the meaning, and for the purpose of the voluntary social services organizations (Registration and Supervision) Act, No. 31 of 1980 and the provisions of that Act shall apply to and in relation to the management of the affairs of the Corporation.
+
+#### 3. Objects of the Corporation.
+
+3. The general objects for which the corporation is constituted are hereby declared to be—
+
+(a) to take measures to develop all Buddhist temples with the aim of fostering spiritual development of the Buddhists and to take all necessary measures to add extensions to the Bodhirajarama temple;
+
+(b) to encourage the upliftment of moral values of the Buddhists and commence and implement various programmes for that purpose;
+
+(c) with the aim of assisting the Buddhists, to implement programs to establish pre-schools, day care centers, homes for children, homes for elders and Dhamma schools;
+
+(d) to commence and conduct various projects for the welfare of Sri Lankan Buddhist students who are unable to pursue their education either due to poverty or other disabilities;
+
+(e) to conduct lectures, seminars, discussions, workshops, educational trips, exhibitions and print publications for the Maha Sangha, Dasa Sil Mathas and the young and elderly Buddhist people with a view to promoting education;
+
+(f) to provide relief services such as assistance and housing, for the benefit of the poor, elderly and destitute people with physical and mental disabilities and the helpless, who are adherents of the Buddhist faith ;
+
+3 Bodhirajarama Educational and Cultural Foundation (Incorporation) Act, No. 28 of 2014
+
+(g) to implement programmes in relation to child health, adult health, disease control, conduct medical clinics, physical training and sports centres and provide medical aid in order to ensure the welfare of the Buddhists ;
+
+(h) to commence and conduct programmes to preserve traditional heritage of Sri Lanka such as culture, literature, arts and crafts, indigenous medicine and environment conservation ; and
+
+(i) to collaborate with any other institution, whether foreign or local having objects similar to those of the Corporation.
+
+(2) In the implementation of the objects specified in subsection (1), the Corporation shall ensure that such implementation shall be carried out without any distinction based on race, religion, language, caste, sex, political opinion, place of birth or any of such grounds.
+
+#### 4. Corporation to ensure no conflict with work of Ministry or Department of the Government or Province.
+
+4. The objects of the Corporation shall be carried out in such manner so as not to create any conflict berween the work of the Corporation and any work being carried out simultaneously by any Ministry or Department of the Government or of any Provincial Council.
+
+#### 5. Management of the affairs of the Corporation.
+
+5. (1) Subject to the provisions of this Act the management and administration of the affairs of the Corporation shall be carried out by a Working Council (hereinafter referred to as the “Council”) consisting of such number of office bearers as may be specified by the rules made under section 7.
+
+(2) (a) The Council of the Foundation holding office on the day immediately preceding the date of commencement of this Act, shall function as the Council of the Corporation until the first Council is appointed or elected in the manner provided for by rules made under section 7.
+
+4 Bodhirajarama Educational and Cultural Foundation (Incorporation) Act, No. 28 of 2014
+
+(b) The first Council of the Corporation shall be appointed or elected within one year of the date of commencement of this Act.
+
+(3) (a) Every office bearer of the Council including the patrons and advisers, shall be appointed or elected for a period of three years and any such office bearer, patron or advisor shall be eligible for re-appointment or re-election after the lapse of the said period of three years.
+
+(b) In the event of a vacancy occurring due to the death, resignation, incapacity or removal from office of an office bearer, the Council shall having regard to the rules of the Corporation, elect or appoint a person to fill such vacancy.
+
+(c) The person elected or appointed under paragraph (b) shall hold office only for the unexpired portion of the term of office of the member whom he succeeds.
+
+#### 6. Powers of the Corporation.
+
+6. Subject to the provisions of this Act and any other written law, the Corporation shall have the power to do, perform and execute all such acts and matters as are necessary or desirable for the promotion or furtherance of the objects of the Corporation or any one of them, including the power—
+
+(a) to purchase, rent, construct, renovate lands or buildings which may by required for the purposes of the Corporation and to deal with or dispose of the same as may be deemed expedient with a view to promoting the objects of the Corporation ;
+
+(b) to borrow or raise funds with or without securities and to receive grants, gifts or donations in cash or kind :
+
+Provided that, the Council shall obtain the prior written approval of the Department of External Resources of the Ministry of the Minister assigned the subject of Finance, in respect of all foreign grants, gifts or donations made to the Corporation;
+
+5 Bodhirajarama Educational and Cultural Foundation (Incorporation) Act, No. 28 of 2014
+
+(c) to make, draw, accept, discount, endorse, negotiate, buy, sell and issue bills of exchange, cheques, promissory notes and other negotiable instruments and to open, operate, maintain and close accounts in any bank ;
+
+(d) to invest any funds that are not immediately required for the purposes of the Corporation, in such manner as the Council may determine ;
+
+(e) to undertake, accept, execute, perform and administer any lawful trust or any real or personal property with a view to promoting the objects of the Corporation ;
+
+(f) to appoint, employ, dismiss or terminate the services of officers and servants of the Corportion and exercise disciplinary control over them and to pay them such salaries, allowances and gratuities as may be determined by the Corporation ;
+
+(g) to organize lectures, seminars and conferences with a view to promoting the objectives of the Corporation ;
+
+(h) to liaise and co-ordinate with other local and foreign institutions having similar objects to that of the Corporation ;
+
+(i) to train personnel in Sri Lanka or abroad for the purposes of the Corporation ; and
+
+(j) to do all other things as are necessary or expedient for the proper and effective carrying out of the objects of the Corporation.
+
+6 Bodhirajarama Educational and Cultural Foundation (Incorporation) Act, No. 28 of 2014
+
+#### 7. Rules of the Corporation.
+
+7. (1) It shall be lawful for the Corporation, from time to time, at any general meeting of the Corporation and by a majority of not less than two-thirds of the members present and voting, to make rules, not inconsistent with the provisions of this Act, or any other written law, for all or any of the following matters:—
+
+(a) the classification of membership, admission, withdrawal, expulsion or resignation of members and fees payable by the members ;
+
+(b) the election of office bearers of the Council or vacation of or removal from office of office bearers and the powers, duties and functions of the office bearers ;
+
+(c) the terms and conditions of appoinment, powers, functions and duties of the various officers, agents and servants of the Corporation ;
+
+(d) the procedure to be followed for the summoning and holding of meetings of the Council or any subcommittee thereof, notices and agenda of such meetings, the quorum and the conduct of business thereat ;
+
+(e) the qualifications and disqualifications to be a member of the Council and the Corporation ;
+
+(f) the administration and management of the property of the Corporation ; and
+
+(g) generally the management of the affairs of the Corporation and the accomplishment of its’ objects and dissolution of the Corporation.
+
+(2) Any rule made by the Corporation may be amended, altered, added to or rescinded at a like meeting and in like manner as a rule made under subsection (1) of this section.
+
+7 Bodhirajarama Educational and Cultural Foundation (Incorporation) Act, No. 28 of 2014
+
+(3) The member of the Corporation shall at all times be subject to the rules of the Corporation.
+
+(4) The rules made under this section shall be published in the Government Gazette.
+
+#### 8. Register of Members.
+
+8. The Council shall maintain a register of members in which name, address and other essential details of the members shall be inscribed.
+
+#### 9. Fund of the Corporation.
+
+9. (1) The Corporation shall have its own Fund.
+
+(2) All moneys received by way of gifts, bequests, donations, subscriptions, contributions, fees or grants for and on account of the Corporation shall be deposited in one or more banks approved by the Council to the credit of the Corporation.
+
+(3) There shall be paid out of the Fund, all sums of money as are required to defray any expenditure incurred by the Corporation in the exercise, performance and discharge of its powers, duties and functions under the Act.
+
+#### 10. Accounts and Auditing.
+
+10. (1) The financial year of the Corporation shall be the calendar year.
+
+(2) The Corporation shall cause proper accounts to be kept of its income and expenditure, assets and liabilities and all other transactions of the Corporation.
+
+(3) The accounts of the Corporation shall be audited annually by the Auditor General or a qualiafied auditor appointed by Auditor General, in terms of Article 154 of the Constitution.
+
+(4) For the purposes of this section, “qualified auditor” means—
+
+(a) an individual who, being a member of the Institute of Chartered Accountants of Sri Lanka,
+
+8 Bodhirajarama Educational and Cultural Foundation (Incorporation) Act, No. 28 of 2014
+
+or of any other institute established by law, possesses a certificate to practise as an accountant issued by the Council of such Institute ; or
+
+(b) a firm of accountants, each of the resident partners of which, being a member of the Institute of Chartered Accountants of Sri Lanka or of any other institute established by law, possesses a certificate to practise as an accountant, issued by the Council of such Institute.
+
+*Annual Report.*
+
+(1) The Council shall prepare a report of the activities 11. of the Corporation for each financial year and submit such report together with the audited statement of accounts to the Secretary to the Ministry of the Minister assigned the subject of Social Services and to the Registrar of Voluntary Social Services Organizations appointed under the Voluntary Social Services Organization (Registration and Supervision) Act, No. 31 of 1980 before the expiration of six months of the year succeeding the year to which such report relates.
+
+(2) A separate statement of accounts relating to the foreign and local moneys received by the Corporation during the financial year shall be attached to the report referred to in subsection (1).
+
+#### 12. Debts due by and payable to the Foundation.
+
+12. All debts and liabilities of the Foundation existing on the day immediately preceding the date of commencement of this Act, shall be paid by the Corporation hereby constituted, and all debts due to and subscriptions and contributions payable to the Foundation on that day shall be paid to the Corporation for the purposes of this Act.
+
+#### 13. Corporation may hold property movable and immovable.
+
+13. Subject to the provisions of this Act, the Corporation shall be able and capable in law to take and hold any property, movable or immovable, which may become vested in it by virtue of any purchase, grant, gift, testamentary disposition
+
+9 Bodhirajarama Educational and Cultural Foundation (Incorporation) Act, No. 28 of 2014
+
+or otherwise, and all such property shall be held by the Corporation for the purposes of this Act and subject to the rules of the Corporation made under section 7, with power to sell, mortgage, lease, exchange or otherwise dispose of the same.
+
+#### 14. Application of moneys and property.
+
+14. The moneys and property of the Corporation however derived shall be applied solely towards the promotion of the objects of the Corporation and no portion thereof shall be paid or transferred directly or indirectly by way of dividend, bonus or profit to the members of the Corporation.
+
+#### 15. Seal of the Corporation.
+
+15. (1) The seal of the Corporation shall not be affixed to any instrument whatsoever, except in the presence of two members of the Council who shall sign their names to the instrument in token of their presence and such signing shall be independent of the signing of any person as a witness.
+
+(2) The seal of the Corporation shall be in the custody of an office bearer of the Council as may be decided by such Council.
+
+#### 16. Property remaining on dissolution.
+
+16. (1) If upon the dissolution of the Corporation there remains after the satisfaction of all its debts and liabilities, any property whatsoever, such property shall not be distributed among the members of the Corporation, but shall be given or transferred to any other institution having objects similar to those of the Corporation, and which is by the rules thereof, prohibited from distributing any income or property among its members.
+
+(2) For the purposes of subsection (1) the appropriate institution shall be determined by the members of the Corporation immediately before the dissolution at a general meeting by the majority of votes of the members present.
+
+10 Bodhirajarama Educational and Cultural Foundation (Incorporation) Act, No. 28 of 2014
+
+#### 17. Saving of the rights of the Republic and others.
+
+17. Nothing in this Act contained shall prejudice or affect the rights of the Republic or of any body politic or corporate.
+
+#### 18. Sinhala text to prevail in case of inconsistency.
+
+18. In the event of any inconsistency between the Sinhala and Tamil texts of this Act, the Sinhala text shall prevail.
+
+*Bodhirajarama Educational and Cultural Foundation (Incorporation) Act, No. 28 of 2014*
+
+11
+
+*Annual subscription of English Bills and Acts of the Parliament (Local), Rs. 1,180 (Foreign), Payable to the S UPERINTENDENT , G OVERNMENT P UBLICATIONS , D EPARTMENT OF G OVERNMENT I NFORMATION , N O . 163, K IRULAPONA M AWATHA , P 05 before 15th December each year in respect of the year*
+
+Rs. 885 B UREAU OLHENGODA , C OLOMBO following .

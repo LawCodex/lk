@@ -1,0 +1,71 @@
+---
+title: "Ports and Airports Development Levy (Amendment) Act, No. 5 of 2020"
+identifier: "Act, No. 5 of 2020"
+type: act
+jurisdiction: lk
+language: en
+date: 2020-10-12
+version: as_enacted
+status: unknown
+source: "https://www.parliament.lk/en/business-of-parliament/act-details/G6180"
+source_pdf: "https://www.parliament.lk/uploads/acts/gbills/english/6180.pdf"
+retrieved: 2026-10-12
+---
+
+# Ports and Airports Development Levy (Amendment) Act, No. 5 of 2020
+
+YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha md¾,sfïka;=j
+
+————————— 2020 wxl 5 ork jrdh iy .=jka f;dgqm, ixj¾Ok nÿ ^ixfYdaOk& mk; ————————— [ iy;slh igyka lf<a 2020 Tlaf;dan¾ ui 12 jk Èk ]
+
+wdKavqfõ kshuh mßÈ uqøKh lrk ,§ ————————— 2020 Tlaf;dan¾ ui 16 jk Èk YS% ,xld m%cd;dka; l s % iudcjd§ ckrcfha .eiÜ m;%fha II jk fldgfia w;sf¾lhla jYfhka m< lrk ,§ Y%S ,xld rcfha uqøK fomd¾;fïka;=fõ uqøKh lrk ,§' fld<U 5" rcfha m%ldYk ld¾hdxYfhka ñ, § ,nd.; yels h' ñ, : re' 8'00 ;eme,a .dia;=j : re' 15'00
+
+fuu mk; www.documents.gov.lk fjí wvúfhka nd.; l< yel'
+
+2020 wxl 5 ork jrdh iy .=jka f;dgqm, 1 ixj¾Ok nÿ ^ixfYdaOk& mk;
+
+[iy;slh igyka lf<a 2020 Tlaf;dan¾ ui 12 jk Èk]
+
+t,a'ã'—´' 61$2019
+
+2011 wxl 18 ork jrdh iy .=jka f;dgqm, ixj¾Ok nÿ mk; ixfYdaOkh lsÍu ms‚i jQ mk;ls
+
+Y%S ,xld m%cd;dka;%sl iudcjd§ ckrcfha md¾,sfïka;=j úiska fufia mkjkq ,efí:—
+
+*¨yq~q kduh iy l%shd;aul ùfï Èkh'*
+
+1' fï mk; 2020 wxl 5 ork jrdh iy .=jka f;dgqm, ixj¾Ok nÿ ^ixfYdaOk& mk; hkqfjka y÷kajkq ,nk w;r" 2019 foieïn¾ ui 6 Èk isg n,d;aul jk f,i i,lkq ,eìh hq;= h'
+
+*2011 wxl 18 ork mkf;a 3 jk j.ka;sh ixfYdaOkh lsÍu'*
+
+2' ^fuys ñkau;= “m%Odk m%{ma;sh ” hkqfjka i|yka lrkq ,nk& 2011 wxl 18 ork jrdh iy .=jka f;dgqm, ixj¾Ok nÿ mkf;a 3 jk j.ka;sfha ^1& jk Wmj.ka;sh bj;a lr" tA fjkqjg my; ±lafjk Wmj.ka;sh wdfoaY lsÍfuka tu j.ka;sh fuhska ixfYdaOkh lrkq ,efí:—
+
+“^1& 2 jk j.ka;sfha i|yka lrk ,o hï NdKavhl msßjeh" rlaIKh iy keõ .dia;= iïnkaOfhka mkjd wh lr .kq ,eìh hq;= noao-
+
+^w& 2011 ckjdß ui 1 jk Èkfhka wdrïNj 2015 foieïn¾ ui 31 jk Èkfhka wjika jk ld,iSudj i|yd ishhg 5'0 l wkqm%udKhl jQ noaola ;
+
+^wd& 2016 ckjdß ui 1 jk Èkfhka wdrïNj 2019 foieïn¾ ui 5 jk Èkfhka wjika jk ld,iSudj i|yd ishhg 7'5 l wkqm%udKhl jQ noaola ; iy
+
+^we& 2019 foieïn¾ ui 6 jk Èk iy tÈkg miqj ishhg 10 l wkqm%udKhl jQ noaola"
+
+f,i .Kkh l< hq;= h'”.
+
+2020 wxl 5 ork jrdh iy .=jka f;dgqm, 2 ixj¾Ok nÿ ^ixfYdaOk& mk;
+
+*j,x.= lsÍu'*
+
+3' fï mkf;a 2 jk j.ka;sh u.ska ixfYdaê; m%Odk m%{ma;sfha 3 jk j.ka;sfha ^1& jk Wmj.ka;sfha úêúOdk i,iajd we;s mßÈ" 2019 foieïn¾ ui 6 jk Èkfhka wdrïNj fï mk; iïnkaOfhka l:dkdhljrhdf.a iy;slh Tyqf.a w;aik iys;j igyka lrkq ,nk Èkfhka wjika jk ld,iSudj ;=< § f¾.= wOHlaI-ckrd,ajrhd úiska nÿ wh lrkq ,nk fyda tl;= lrkq ,nk wjia:djl § ksis wêldß n,h iys;j l%shd lr we;s f,i iy l%shd lrñka isákq ,nk f,i i,lkq ,eìh hq;= w;r" tu nÿ wh lsÍu fyda tl;= lsÍu" ish¨ ld¾hh i|yd j,x.= f,i isÿlr we;s iy isÿ lrkq ,nk f,i i,lkq ,eìh hq;= h' tu nÿ wh lsÍu fyda tl;= lsÍu iïnkaOfhka f¾.= wOHlaI-ckrd,ajrhdg tfrysj mjrkq ,nk ish¨ isú,a fyda wmrdO kvqj,ska f¾.= wOHlaIckrd,ajrhd fuhska ydksmQrKh lr ;nkq ,efí:
+
+tfia jqj o" by; lS ld,iSudj ;=< §" fï mkf;a úêúOdk i,iajd we;s wdldrhg tl;= lrk ,o hï nÿ iïnkaOfhka hï wêlrKhla úiska .kq ,enQ ;SrKhla fyda ksfhda.hla fyda hï wêlrKhl úNd. fjñka mj;sk hï kS;s lD;Hhla i|yd by; lS úêúOdk n, fkdmE hq;= h'
+
+*wkkql+,;djla we;s jQ úg isxy, NdId mdGh n,meje;aúh hq;= nj'*
+
+4' fï mkf;a isxy, iy fou< NdId mdG w;r hï wkkq l + , ;djla we;s j q j fyd;a " túg" is x y, NdId mdGh n,meje;aúh hq;= h'
+
+*3*
+
+2020 wxl 5 ork jrdh iy .=jka f;dgqm, ixj¾Ok nÿ ^ixfYdaOk& mk;
+
+*udj;" fld<U 08" .; yels h'*
+
+md¾,sfïka;=fõ isxy, mk;a" wxl 118" fÞia;r veksiag¾ o is,ajd rcfha uqøKd,fha msysá “ m%ldYk mshi ” ys § ñ, §
