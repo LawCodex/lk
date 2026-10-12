@@ -84,5 +84,4 @@ python scripts/lk_fetch.py      # caches the list and PDFs under ../_raw/lk (sca
 python scripts/lk_convert.py .  # writes the Markdown files
 ```
 
-Note: `lk_fetch.py` walks the whole list; the published corpus stopped fetching at the 1981 entries
-(see above).
+`lk_fetch.py` skips entries endorsed before 1982 (`LK_MIN_DATE=1800-01-01` to try them all).

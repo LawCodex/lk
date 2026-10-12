@@ -18,6 +18,7 @@ S = requests.Session()
 S.headers["User-Agent"] = UA
 LIST = "https://www.parliament.lk/en/business-of-parliament/download-acts-listing/csv"
 CONST = "https://www.parliament.lk/files/pdf/constitution.pdf"
+MIN_DATE = os.environ.get("LK_MIN_DATE", "1982-01-01")
 
 
 def get(url, path, delay=0.5):
@@ -55,6 +56,8 @@ def main():
     state = json.load(open(state_p)) if os.path.exists(state_p) else {}
 
     def one(r):
+        if (r.get("Endorsed Date") or "") < MIN_DATE:
+            return  # older Acts are scanned images (see README)
         link = r["Link to Act"]
         key = link.rsplit("/", 1)[-1]
         if key in state:
